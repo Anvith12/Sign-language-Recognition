@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 <h1>Sign Language Recognition Using OpenCV</h1>
 <h2>Dependencies:</h2>
   <p>1. Tensorflow</p>
